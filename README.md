@@ -43,7 +43,7 @@ Check out my full list of certifications on [Credly]([https://www.credly.com/use
 
 I'm always excited to collaborate on new projects and explore emerging technologies. Feel free to reach out!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/paulphillipsuk/)
+- 📧 Email: paul@porterphillips.com
 
 Let's build something amazing together! 🚀
