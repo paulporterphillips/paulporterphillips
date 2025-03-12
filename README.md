@@ -18,9 +18,9 @@ I am continuously improving my skills and staying up to date with industry stand
 - 🏅 **AWS Certified Solutions Architect – Associate**
 - 🏅 **Microsoft Certified: Azure Solutions Architect**
 - 🏅 **Certified Kubernetes Administrator (CKA)**
-- 🏅 **Workato Automation Pro I & II**
+- 🏅 **Workato Automation Pro I, II & III**
 
-Check out my full list of certifications on [Credly](https://www.credly.com/users/your-profile/badges).
+Check out my full list of certifications on [Credly]([https://www.credly.com/users/your-profile/badges](https://www.credly.com/users/paul-phillips.170ff9b8)).
 
 ## 💡 What You'll Find Here
 
